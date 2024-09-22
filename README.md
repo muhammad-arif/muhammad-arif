@@ -72,7 +72,8 @@
 
 <h4> Graphics and UI/UX Tools </h4>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://w7.pngwing.com/pngs/301/722/png-transparent-adobe-logo-logos-photoshop-logos-and-brands-icon.png" style="display: inline-block;"><img src="https://w7.pngwing.com/pngs/301/722/png-transparent-adobe-logo-logos-photoshop-logos-and-brands-icon.png" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://image.similarpng.com/very-thumbnail/2020/06/Logo-adobe-lightroom-icon-PNG.png" style="display: inline-block;"><img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-adobe-lightroom-icon-PNG.png" alt="lightroom" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 
 <h4> Simulation Tools </h4>
