@@ -1,5 +1,13 @@
 <h1>Hi 👋, I'm Arif</h1>
 <p>A tech enthusiast generalist, like to get involved everything related to computer science, electronics, telecommunication and mechanical engineering.</p>
+
+<h2>🚀 Projects </h2>
+ <ul>
+  <li>TerraTrain | Terraform + Bash + AWS | https://github.com/muhammad-arif/terraTrain </li>
+  <li>BrokerCLI | Golang | https://github.com/muhammad-arif/broker </li>
+  <li>DsinfoParser | Golang | https://github.com/muhammad-arif/dsinfoParsingLibrary </li>
+</ul> 
+
 <h2>🚀 Tools I Use</h2>
 <h4> Programing Languages </h4>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
