@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Arif</h1>
-<p>A tech enthusiast generalist, like to get involved everything related to computer science, electronics, telecommunication and mechanical engineering.</p>
+<p>A generalist tech enthusiast, like to get involved everything related to computer science, electronics, telecommunication and mechanical engineering.</p>
 
 <h2>🚀 Projects </h2>
  <ul>
